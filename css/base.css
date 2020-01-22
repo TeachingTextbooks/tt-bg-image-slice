@@ -3,8 +3,8 @@ body, html {
 }
 
 .bgimg {
-  background-image: url('/img/campfire_background-op.svg');
+  border-image: url('/img/campfire_background-op.svg') 25 30 10 20 fill;
   min-height: 100%;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
 }
