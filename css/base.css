@@ -6,4 +6,5 @@ body, html {
   border-image-source: url('/img/campfire_background-op.svg');
   border-image-slice: 0 0 0 0 fill;
   min-height: 100%;
+  width: 100%;
 }
