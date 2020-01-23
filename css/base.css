@@ -3,8 +3,13 @@ body, html {
 }
 
 .bgimg {
-  border-image-source: url('/img/campfire_background-op.svg');
-  border-image-slice: 0 0 0 0 fill;
-  min-height: 100%;
-  width: 100%;
+	background-color: blue;
+	background-image: url('../img/papertile.jpg');
+	border: 80px solid black;
+	border-image-source: url('../img/woodsyborder.png');
+	border-image-width: 200px;
+	border-image-slice: 163 236 247 244;
+	min-height: calc(100% - 160px);
+	width: calc(100% - 160px);
 }
+
