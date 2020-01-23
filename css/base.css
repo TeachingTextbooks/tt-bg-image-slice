@@ -3,7 +3,7 @@ body, html {
 }
 
 .bgimg {
-	background-color: blue;
+	background-color: black;
 	background-image: url('../img/papertile.jpg');
 	border: 80px solid black;
 	border-image-source: url('../img/woodsyborder.png');
