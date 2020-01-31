@@ -19,7 +19,7 @@ body, html {
 	border: 120px solid black;
 	border-image-source: url('../img/pencil-border.png');
 	border-image-width: 200px;
-	border-image-slice: 66 68 66 68;
+	border-image-slice: 108 106 108 116;
 	min-height: calc(100% - 240px);
 	width: calc(100% - 240px);
 }
