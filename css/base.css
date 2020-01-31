@@ -13,3 +13,14 @@ body, html {
 	width: calc(100% - 160px);
 }
 
+.bgimg2 {
+	background-color: blue;
+	background-image: url('../img/graph-paper.jpg');
+	border: 120px solid black;
+	border-image-source: url('../img/pencil-border.png');
+	border-image-width: 200px;
+	border-image-slice: 66 68 66 68;
+	min-height: calc(100% - 240px);
+	width: calc(100% - 240px);
+}
+
